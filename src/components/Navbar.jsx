@@ -20,7 +20,7 @@ export default function Navbar() {
         <img src="/logoquran.png" alt="logo"
          className="w-15 h-15 object-cover rounded-md "/>
         <Link to="/" className="font-bold text-4xl hover:text-red-500">
-          Quran Pak
+          Quranic
         </Link>
 
         <form onSubmit={submit} className="hidden md:flex items-center gap-2">
